@@ -15,7 +15,7 @@ const {
   ActivityType // เพิ่มเข้ามาเพื่อตั้งสถานะบอท
 } = require("discord.js");
 
-const TOKEN = "MTUwMjYwNzMzMDk4OTMxMDEyMg.GeG4gv.EVeGr2lMJMSAsi_V10DbToZR6PCLjpaKMqiQ78";
+const TOKEN = ".GeG4gv.EVeGr2lMJMSAsi_V10DbToZR6PCLjpaKMqiQ78";
 const CLIENT_ID = "1502607330989310122";
 const ROLE_ID = "1502608807119945778";
 const LOG_CHANNEL_ID = "1502683713907986503";
